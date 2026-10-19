@@ -17,9 +17,9 @@ I explore ideas, develop digital tools, and document the process of turning conc
 **[Developeair](https://developeair.vercel.app)**  
 Parent company — a broader vision for building technology products and software ventures.
 
-**Unfoundid**  
+**[Unfoundid](https://unfoundid.cyou)**  
 Subsidiary of Developeair — focused on developing useful digital products and tools.
-Offical Website : (https://unfoundid.cyou)
+
 
 ### Areas of Interest
 
